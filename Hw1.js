@@ -8,5 +8,3 @@ export const stars = (n) => {
     }
     return reg;
   }
-
-  console.log(stars(8))
